@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490296490 source:j:\programacion i\ejercicio 3.41\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
