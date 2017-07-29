@@ -1,10 +1,10 @@
 /*
     Desplegar mensajes
  */
-package ejercico24coma10;
+package ejercico_24_10;
 import javax.swing.JOptionPane; // importa la clase de cuadros de mensaje
 
-public class Ejercico24coma10 {
+public class Ejercico_24_10 {
 
     public static void main(String[] args) {
         

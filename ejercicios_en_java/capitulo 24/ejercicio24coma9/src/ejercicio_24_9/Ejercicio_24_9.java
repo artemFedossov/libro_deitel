@@ -2,10 +2,10 @@
     JOptionPane.
     asigne el producto de b y c a la variable a
  */
-package ejercicio24coma9;
+package ejercicio_24_9;
 import javax.swing.JOptionPane; // Importa la clase para tomar datos y mostrar datos en forma de cuadro
 
-public class Ejercicio24coma9 {
+public class Ejercicio_24_9 {
 
     public static void main(String[] args) {
         int numeroB,
